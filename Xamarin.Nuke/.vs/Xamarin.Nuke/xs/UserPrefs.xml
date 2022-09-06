@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{7177EAAC-5341-459A-9F53-EBC78F27F842}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Xamarin.Nuke.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BEAB116F-BB12-491B-95A9-5CFDB9B8DDD0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.Nuke/Xamarin.Nuke.csproj">
+    <Files>
+      <File FileName="Xamarin.Nuke/Structs.cs" Line="1" Column="1" />
+      <File FileName="../Xamarin.Nuke.nuspec" Line="1" Column="1" />
+      <File FileName="Xamarin.Nuke/Xamarin.Nuke.csproj" Line="14" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xamarin.Nuke" expanded="True">
+            <Node name="Solution items" expanded="True" />
+            <Node name="Xamarin.Nuke" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="NativeReferenceFolder" expanded="True" />
+              <Node name="ApiDefinition.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BEAB116F-BB12-491B-95A9-5CFDB9B8DDD0" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

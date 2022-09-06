@@ -1,0 +1,60 @@
+{
+  "Mac" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "2a7f6d34c96dae05bfa3731081ad367e2dcfd413f7cd48310a2bdf0305e30857",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "macos-arm64_x86_64"
+    }
+  ],
+  "watchOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "39cc0f4c197f96e8619744f6ba91c7d0311b2a1314b8db018171043011234ae9",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "watchos-arm64_i386_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "3e0eafdd4e0094f0110ce5660b574b87ac8b99cc0deed6e946ae2cba67a583fc",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "watchos-arm64_32_armv7k"
+    }
+  ],
+  "tvOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "4ec02f804665cbbbc5214dc07aaa9a2cab7879186380ba5cf5b6542c229e05c0",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "tvos-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "edc5eeb31e5299d0aeca0ae47abeffa3facab7e04d92f0c0f40fd61bde80e69b",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "tvos-arm64"
+    }
+  ],
+  "commitish" : "10.3.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "334d82b26783f7313b2b8dd867eec64f42422457fd011ecd8b216bdb8c6027a3",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)",
+      "hash" : "069bda67d8bff7e29b3f0a2eaea3c6a36dc8ff9672b1d77193294db29730699d",
+      "name" : "Nuke",
+      "container" : "Nuke.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}

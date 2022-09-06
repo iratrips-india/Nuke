@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "targets": {
+    "Xamarin.iOS,Version=v1.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "Xamarin.iOS,Version=v1.0": []
+  },
+  "packageFolders": {
+    "/Users/pravin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/pravin/Projects/NukeProxy/Xamarin.Nuke/Xamarin.Nuke/Xamarin.Nuke.csproj",
+      "projectName": "XamarinNuke",
+      "projectPath": "/Users/pravin/Projects/NukeProxy/Xamarin.Nuke/Xamarin.Nuke/Xamarin.Nuke.csproj",
+      "packagesPath": "/Users/pravin/.nuget/packages/",
+      "outputPath": "/Users/pravin/Projects/NukeProxy/Xamarin.Nuke/Xamarin.Nuke/obj/",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "/Users/pravin/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "xamarinios10"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "xamarinios10": {}
+    }
+  }
+}

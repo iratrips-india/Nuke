@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0tqS98RzUT5NapzSOYystidGPF6zwpEGM6OkDBdbUeTR3zKNlVg4Gep3xtLiN11fviUx7gJpfShhfwMoNVr2g==",
+  "success": true,
+  "projectFilePath": "/Users/pravin/Projects/NukeProxy/Xamarin.Nuke/Xamarin.Nuke.Sample/Xamarin.Nuke.Sample.csproj",
+  "expectedPackageFiles": [
+    "/Users/pravin/.nuget/packages/skiasharp/2.80.2/skiasharp.2.80.2.nupkg.sha512",
+    "/Users/pravin/.nuget/packages/skiasharp.views/2.80.2/skiasharp.views.2.80.2.nupkg.sha512",
+    "/Users/pravin/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/pravin/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
